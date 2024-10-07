@@ -12,7 +12,7 @@ echo     .:======== ConzZah's ========:.
 echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 echo   ALICE MADNESS RETURNS PATCHER [v1.0]
 echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-echo       [ PRESS ANY KEY TO START ]        
+echo       [ PRESS ENTER TO START ]        
 set /p x= & cls
 if "%x%"=="alice1" goto dl_alice1
 if "%~1"=="alice1" goto dl_alice1
